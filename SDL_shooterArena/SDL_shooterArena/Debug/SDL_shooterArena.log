@@ -1,0 +1,9 @@
+﻿  init.c
+C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\SDL_shooterArena\debugmalloc.h(339,14): warning C4018: '>': signed/unsigned mismatch
+  Main.c
+C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\SDL_shooterArena\debugmalloc.h(339,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\SDL_shooterArena\GameFunctions.h(148,48): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\SDL_shooterArena\Main.c(21,13): warning C4013: 'sdl_init' undefined; assuming extern returning int
+C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\SDL_shooterArena\Main.c(71,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SDL_shooterArena.vcxproj -> C:\Users\szaba\source\repos\nagyHF\SDL_shooterArena\Debug\SDL_shooterArena.exe
